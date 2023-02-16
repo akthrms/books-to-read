@@ -1,3 +1,4 @@
 # 読みたい本リスト
 
-TODO
+- [Let’s Go](https://lets-go.alexedwards.net/)
+- [Let's Go Further](https://lets-go-further.alexedwards.net/)
